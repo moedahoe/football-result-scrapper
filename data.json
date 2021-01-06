@@ -1,0 +1,38 @@
+{
+    "Home_team": "Atalanta",
+    "Away_team": "Parme",
+    "Home_stats": {
+        "Goals": "5",
+        "Possession": "59",
+        "Goal_Attempts": "18",
+        "Shots_on_Goal": "11",
+        "Shots_off_Goal": "7",
+        "free_kicks": "14",
+        "Corners": "2",
+        "Offsides": "1",
+        "GK_saves": "1",
+        "Fouls": "12",
+        "Red_cards": 0,
+        "Yellow_cards": "2",
+        "Passes": "412",
+        "Attacks": "116",
+        "Dangerous_attacks": "43"
+    },
+    "Away_stats": {
+        "Goals": "0",
+        "Possession": "41",
+        "Goal_Attempts": "3",
+        "Shots_on_Goal": "1",
+        "Shots_off_Goal": "2",
+        "free_kicks": "9",
+        "Corners": "2",
+        "Offsides": "3",
+        "GK_saves": "6",
+        "Fouls": "13",
+        "Red_cards": 0,
+        "Yellow_cards": "4",
+        "Passes": "255",
+        "Attacks": "93",
+        "Dangerous_attacks": "28"
+    }
+}
